@@ -1,2 +1,6 @@
+wp-content/uploads/
+wp-content/cache/
 db_data/
+docker-compose.override.yml
+*.sql
 .env
